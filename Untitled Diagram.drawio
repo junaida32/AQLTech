@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T04:49:03.278Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="5UNWZ9G7D5dnUIrs9SUp" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T10:41:01.765Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="i5hYapxkLIl-TX-UrKzW" version="22.0.6" type="github">
   <diagram name="Page-1" id="mm1-0BpxnrbdSzO1788i">
     <mxGraphModel dx="1593" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -1404,6 +1404,9 @@
           <mxGeometry x="0.866" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iXuYyfxpyai6_e1HYQxv-1" value="Author: Junaid Abbasi&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;Document: Diagram of RISC-V Pipelined&amp;nbsp; Processor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-180" width="610" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

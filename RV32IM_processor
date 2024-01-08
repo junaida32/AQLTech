@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T07:02:14.170Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="75HyiEVSH5VSUXfIlFq3" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:02:36.452Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9zGPrjwP-xarep5W_F8m" version="22.1.16" type="github">
   <diagram name="Page-1" id="OK7vCqQYMX3ROqq3e6OI">
     <mxGraphModel dx="2868" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -1408,7 +1408,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="08u7An0cGwbKp7EOt4tI-255" value="Author: Junaid Abbasi&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 25px;&quot;&gt;&#x9;&lt;/span&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;Document: Diagram of RISC-V Pipelined&amp;nbsp; Processor&lt;br&gt;With M-Extension" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="670" y="230" width="610" height="200" as="geometry" />
+          <mxGeometry x="1020" y="130" width="610" height="200" as="geometry" />
         </mxCell>
         <mxCell id="08u7An0cGwbKp7EOt4tI-278" value="divOp" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1440" y="500" width="50" height="30" as="geometry">

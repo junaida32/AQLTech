@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T06:29:33.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ShQStbgFjlUHIPU7G8Dt" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-15T06:46:34.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IZNcq75-VTU2Y2Wk4qAc" version="24.0.2" type="github" pages="9">
   <diagram name="Page-1" id="JkqxlUm9vlup5fEV65o1">
-    <mxGraphModel dx="7750" dy="5328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="8625" dy="5793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3620,6 +3620,9 @@
         <mxCell id="TlzPkk_5z-SssaWCDGcX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Shift factor(SF) = log&lt;sub&gt;2&lt;/sub&gt;&amp;nbsp;(Size of PTE in byte)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-5750" y="-2490" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pxaEidk4RXrh78ukoNsu-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Shift factor(SF) = log&lt;sub&gt;2&lt;/sub&gt;&amp;nbsp;(Size of PTE in byte)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-5350" y="2380" width="230" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -6625,7 +6628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yI025Xcf5U9LxwGDH9Aj" name="Page-9">
-    <mxGraphModel dx="8414" dy="224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7889" dy="-55" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
